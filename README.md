@@ -16,9 +16,3 @@ Student at 42 Le Havre
 </p>
 
 <br>
-
-<h2 align="center">📈 Stats</h2>
-
-<p align="center">
-
-</p>
