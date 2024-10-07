@@ -8,10 +8,10 @@ Student at 42 Le Havre
 
 <br>
 
-<h2 align="center">🔧 Languages && Tools ⚙️</h2>
+<h2 align="center">Languages</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,js,django,py,html,php,docker,css,ps" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,django,py,html,php,docker,css" />
   </a>
 </p>
 
