@@ -1,16 +1,24 @@
-## Hi there 👋
+![](scout-trooper.jpg)
 
-<!--
-**abrin42/abrin42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hello there, I'm Axel BRIN </h1>
 
-Here are some ideas to get you started:
+Student at 42 Le Havre
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**`I'm currently looking for a 6-month internship in Le Havre.`**
+
+<br>
+
+<h2 align="center">🔧 Languages && Tools ⚙️</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,c,js,django,py,html,php,docker,css,ps" />
+  </a>
+</p>
+
+<br>
+
+<h2 align="center">📈 Stats</h2>
+
+<p align="center">
+
+</p>
