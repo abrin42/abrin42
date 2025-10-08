@@ -3,8 +3,7 @@
 <h1 align="center">Hello there, I'm Axel BRIN </h1>
 
 Student at 42 Le Havre
-
-**`I'm currently looking for a 6-month internship in Le Havre.`**
+Work at SellingAtHome
 
 <br>
 
