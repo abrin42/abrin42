@@ -2,7 +2,6 @@
 
 <h1 align="center">Hello there, I'm Axel BRIN </h1>
 
-Student at 42 Le Havre<br>
 
 Work at SellingAtHome
 
